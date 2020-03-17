@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Program Files (x86)\\Arduino\\tools\\**",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\**",
+                "C:\\Users\\u518765\\OneDrive\\Arduino\\libraries\\FastSIM"
+            ],
+            "forcedInclude": [
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino\\Arduino.h"
+            ],
+            "intelliSenseMode": "msvc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

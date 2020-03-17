@@ -1,0 +1,36 @@
+###########################################
+# Syntax Coloring Map For SIM_SMS Library
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+SIM_SMS	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+ConfigSIM	KEYWORD2
+SendCMD	KEYWORD2
+SendATCmdWaitResp	KEYWORD2
+WaitResp	KEYWORD2
+WaitRespCh	KEYWORD2
+RxInit	KEYWORD2
+IsRxFinished	KEYWORD2
+IsStringReceived	KEYWORD2
+SetCommLineStatus	KEYWORD2
+GetCommLineStatus	KEYWORD2
+SendSMS	KEYWORD2
+SendSMSPos	KEYWORD2
+IsSMSPresent	KEYWORD2
+GetSMS	KEYWORD2
+GetAuthorizedSMS	KEYWORD2
+DeleteSMS	KEYWORD2
+ComparePhoneNumber	KEYWORD2
+GetPhoneNumber	KEYWORD2
+BuscarEntre	KEYWORD2
+StringFind	KEYWORD2
+SIMinfo	KEYWORD2
+
